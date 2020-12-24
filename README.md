@@ -1,2 +1,2 @@
-# ramp-dataset
-The NIST ramp dataset
+# ESOGU RAMP-dataset
+The ramp dataset
